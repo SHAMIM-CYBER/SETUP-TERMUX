@@ -8,4 +8,4 @@ git clone https://github.com/SHAMIM-CYBER/SETUP-TERMUX.git
 
 cd SETUP-TERMUX
 
-python SETUP-TERMUX
+python SETUP-TERMUX.py
